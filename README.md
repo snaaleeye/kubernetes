@@ -32,4 +32,4 @@ For mac you need to explicilty allow the portsls
 
 `kubectl create -f svc-nginx.yml`
 
-Labels and selectors
+`kubectl exec sparta-app-7b9f5cdf76-fkcwc env node seeds/seed.js`
