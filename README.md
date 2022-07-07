@@ -26,10 +26,16 @@ Simple, lightweight applications
 
 Short time frame for delivery
 
-## What are K8 objects and services?
+## What is a K8 objects?
+
+Kubernetes objects are persistent entities in the Kubernetes system. Kubernetes uses these entities to represent the state of your cluster. A Kubernetes object is a "record of intent"--once you create the object, the Kubernetes system will constantly work to ensure that object exists. By creating an object, you're effectively telling the Kubernetes system what you want your cluster's workload to look like; this is your cluster's desired state.
+
+## What is a K8 service?
+An abstract way to expose an application running on a set of Pods as a network service.
+With Kubernetes you don't need to modify your application to use an unfamiliar service discovery mechanism. Kubernetes gives Pods their own IP addresses and a single DNS name for a set of Pods, and can load-balance across them.
 
 
-## What is a k8 cluster?
+## What is a K8 cluster?
 
 Kubernetes clusters together groups of hosts running containers, and helps you easily and efficiently manage those clusters.
 
