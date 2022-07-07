@@ -2,11 +2,40 @@
 
 Kubernetes (also known as k8s or “kube”) is an open source container orchestration platform that automates many of the manual processes involved in deploying, managing, and scaling containerized applications.
 
+Kubernetes clusters together groups of hosts running containers, and helps you easily and efficiently manage those clusters.
+
+Benefits:
+
+Self Healing
+Load Balancing and Service Dicov
+Automated rollouts and rollback
+Auto Scaling
+Automatic bin packing
+Storage orchestration
+
+### Kubernetes should be used:
+If your application uses a microservice architecture
+
+Slow development and deployment
+
+To lower infrastructure costs
+
+### Kubernetes should not be used for:
+
+Simple, lightweight applications
+
+Short time frame for delivery
+
 ## What are K8 objects and services?
+
 
 ## What is a k8 cluster?
 
-## K8 setup
+Kubernetes clusters together groups of hosts running containers, and helps you easily and efficiently manage those clusters.
+
+A process that runs multiple instances of a Pod and keeps the specified number of Pods constant
+
+
 
 ## K8 Commands
 
