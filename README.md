@@ -12,7 +12,7 @@ Kubernetes (also known as k8s or “kube”) is an open source container orchest
 
 `kubectl`
 
-`kubectl get service` pr `kubectl get svc`
+`kubectl get service` or `kubectl get svc`
 
 `kubectl get deployment` or `kubectl get deploy`
 
