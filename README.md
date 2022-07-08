@@ -41,6 +41,7 @@ Kubernetes clusters together groups of hosts running containers, and helps you e
 
 A process that runs multiple instances of a Pod and keeps the specified number of Pods constant
 
+<img width="877" alt="Screenshot 2022-07-08 at 09 03 45" src="https://user-images.githubusercontent.com/105854053/177946508-17555e82-162e-43dd-a4c1-8e47a17e50c8.png">
 
 
 ## K8 Commands
